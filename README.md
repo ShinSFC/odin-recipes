@@ -1,0 +1,1 @@
+This is my first odin project. I will utilize the html, git and command line skills I learned here to work on this project.
