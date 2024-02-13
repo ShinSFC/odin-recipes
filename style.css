@@ -1,0 +1,32 @@
+h1 {
+    color: blue;
+
+}
+
+h2 {
+        font-family: Tahoma, serif;
+}
+
+.one {
+    color: green;
+    font-weight: bold;
+    background-color: yellow;
+} 
+
+.two {
+    background-color: pink;
+}
+
+#ing {
+    color: purple;
+}
+
+h1, 
+h2,
+.one,
+.two,
+#ing,
+li,
+p {
+text-align: center;
+}
